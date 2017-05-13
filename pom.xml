@@ -5,7 +5,7 @@
 	<artifactId>itcast-parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
-
+zfzffas
 	<!-- 集中定义依赖版本号 -->
 	<properties>
 		<junit.version>4.10</junit.version>
